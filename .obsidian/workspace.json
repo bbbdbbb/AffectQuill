@@ -14,18 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "02 Fundamental Models/AffcteGPT.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "87c9023a36a74ab5",
+            "id": "2e288b865573ee9c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "98 papers/AffectGPT.pdf"
+                "file": "98_papers/AffectGPT.pdf"
               }
             }
           }
@@ -158,15 +158,15 @@
   },
   "active": "c539c3d9276fcf7c",
   "lastOpenFiles": [
-    "98 papers/AffectGPT.pdf",
-    "02 Fundamental Models/imgs/AffectGPT_visualize.png",
+    "98_papers/AffectGPT.pdf",
     "02 Fundamental Models/AffcteGPT.md",
+    "02 Fundamental Models/imgs/AffectGPT_visualize.png",
     "02 Fundamental Models/imgs/AffcteGPT_clues-prompt.png",
     "02 Fundamental Models/imgs",
     "README.md",
     "99 templates/paper-template.md",
     "99 templates",
-    "98 papers",
+    "98_papers",
     "02 Fundamental Models",
     "01 Facial expression recognition/Latent-OFER.md",
     "01 Facial expression recognition",
