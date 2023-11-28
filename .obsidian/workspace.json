@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Fundamental Models/AffcteGPT.md",
-                "mode": "source",
+                "file": "Contents.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2e288b865573ee9c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98_papers/AffectGPT.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Fundamental Models/AffcteGPT.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Fundamental Models/AffcteGPT.md",
+                "file": "Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Fundamental Models/AffcteGPT.md"
+                "file": "Contents.md"
               }
             }
           }
@@ -158,19 +148,20 @@
   },
   "active": "c539c3d9276fcf7c",
   "lastOpenFiles": [
+    "02_Fundamental-Models/AffectGPT.md",
+    "Contents.md",
     "98_papers/AffectGPT.pdf",
-    "02 Fundamental Models/AffcteGPT.md",
-    "02 Fundamental Models/imgs/AffectGPT_visualize.png",
-    "02 Fundamental Models/imgs/AffcteGPT_clues-prompt.png",
-    "02 Fundamental Models/imgs",
+    "02_Fundamental-Models",
     "README.md",
-    "99 templates/paper-template.md",
-    "99 templates",
+    "02_Fundamental-Models/imgs/AffectGPT_visualize.png",
+    "02_Fundamental-Models/imgs/AffcteGPT_clues-prompt.png",
+    "02_Fundamental-Models/imgs",
+    "99_templates/paper-template.md",
+    "99_templates",
     "98_papers",
-    "02 Fundamental Models",
-    "01 Facial expression recognition/Latent-OFER.md",
-    "01 Facial expression recognition",
-    "文章目录.md",
+    "02_Fundamental-Models",
+    "01_Facial-expression-recognition/Latent-OFER.md",
+    "01_Facial-expression-recognition",
     "01",
     "00"
   ]
