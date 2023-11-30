@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "046323c29d9626cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Fundamental-Models/AffectGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de97837ba8deab31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "461bcf4b7ab55709",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98_papers/Mirasol3B.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents.md",
+                "file": "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents.md",
+                "file": "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents.md"
+                "file": "03_Multimodal-Learning/Mirasol3B_2023-11-30.md"
               }
             }
           }
@@ -146,10 +181,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c539c3d9276fcf7c",
+  "active": "de97837ba8deab31",
   "lastOpenFiles": [
+    "98_papers/Mirasol3B.pdf",
+    "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
     "02_Fundamental-Models/AffectGPT.md",
     "Contents.md",
+    "03_Multimodal-Learning",
     "98_papers/AffectGPT.pdf",
     "02_Fundamental-Models",
     "README.md",
@@ -162,7 +200,6 @@
     "02_Fundamental-Models",
     "01_Facial-expression-recognition/Latent-OFER.md",
     "01_Facial-expression-recognition",
-    "01",
-    "00"
+    "01"
   ]
 }
