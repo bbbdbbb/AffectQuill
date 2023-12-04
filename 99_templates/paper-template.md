@@ -10,7 +10,7 @@ Author
 
 
 # Pipeline
-![](img.png)
+![](imgs/img.png)
 
 # Useful points
 

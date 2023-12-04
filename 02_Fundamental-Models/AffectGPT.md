@@ -11,10 +11,10 @@ Zheng Lian, Institute of Automation
  They propose the first multimodal large language model (LLM) in affective computing, called **AffectGPT**.  
 They establish an initial dataset, baselines, and evaluation metrics.  
 They use ChatGPT to summarize annotatoss' clues:  
-![](AffcteGPT_clues-prompt.png)
+![](imgs/AffcteGPT_clues-prompt.png)
 
 # Pipeline
-![](AffectGPT_visualize.png)
+![](imgs/AffectGPT_visualize.png)
 
 # Useful points
 To integrate subtitle information in the video, they include subtitles as additional content in the prompt:

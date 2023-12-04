@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+                "file": "01_Facial-expression-recognition/Latent-OFER.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+                "file": "01_Facial-expression-recognition/Latent-OFER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+                "file": "01_Facial-expression-recognition/Latent-OFER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md"
+                "file": "01_Facial-expression-recognition/Latent-OFER.md"
               }
             }
           }
@@ -170,15 +170,15 @@
   },
   "active": "89157c5b2d6a8b5d",
   "lastOpenFiles": [
-    "98_papers/MiniGPT-v2.pdf",
     "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
-    "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
     "02_Fundamental-Models/AffectGPT.md",
+    "99_templates/paper-template.md",
+    "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+    "98_papers/MiniGPT-v2.pdf",
     "img.png.md",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Multi-task.png",
     "98_papers/Mirasol3B.pdf",
-    "99_templates/paper-template.md",
     "Contents.md",
     "03_Multimodal-Learning/imgs/Mirasol3B_overview.png",
     "03_Multimodal-Learning/imgs",
