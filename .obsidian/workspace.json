@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Facial-expression-recognition/Latent-OFER.md",
+                "file": "03_Multimodal-Learning/Blip-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
+                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "98_papers/MiniGPT-v2.pdf"
+                "file": "98_papers/Blip-2.pdf"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Facial-expression-recognition/Latent-OFER.md",
+                "file": "03_Multimodal-Learning/Blip-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Facial-expression-recognition/Latent-OFER.md",
+                "file": "03_Multimodal-Learning/Blip-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Facial-expression-recognition/Latent-OFER.md"
+                "file": "03_Multimodal-Learning/Blip-2.md"
               }
             }
           }
@@ -170,11 +170,15 @@
   },
   "active": "89157c5b2d6a8b5d",
   "lastOpenFiles": [
-    "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
-    "02_Fundamental-Models/AffectGPT.md",
-    "99_templates/paper-template.md",
-    "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+    "98_papers/Blip-2.pdf",
+    "03_Multimodal-Learning/Blip-2.md",
     "98_papers/MiniGPT-v2.pdf",
+    "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+    "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
+    "Blip-2",
+    "99_templates/paper-template.md",
+    "01_Facial-expression-recognition/Latent-OFER.md",
+    "02_Fundamental-Models/AffectGPT.md",
     "img.png.md",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Multi-task.png",
@@ -189,9 +193,6 @@
     "02_Fundamental-Models/imgs/AffectGPT_visualize.png",
     "02_Fundamental-Models/imgs/AffcteGPT_clues-prompt.png",
     "02_Fundamental-Models/imgs",
-    "99_templates",
-    "98_papers",
-    "02_Fundamental-Models",
-    "01_Facial-expression-recognition/Latent-OFER.md"
+    "99_templates"
   ]
 }
