@@ -33,3 +33,4 @@ The queries **interact with** each other through self-attention layers, and **in
 
 # Extended literature
 - I don't know the queries how to interact with the text through the same self-attention layers. The [code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) of Blip-2.
+- Align before fuse: Vision and language representation learning with momentum distillation. In NeurIPS, 2021.
