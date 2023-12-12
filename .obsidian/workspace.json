@@ -11,32 +11,34 @@
             "id": "ce078da4e2758e97",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98_papers/Blip-2.pdf"
-              }
-            }
-          },
-          {
-            "id": "504f9d0fcd3478bb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Multimodal-Learning/Blip-2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19432803fcd5fd80",
+            "id": "432f24bc9be37591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+                "file": "Contents.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23b37dcca532bc21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Multimodal-Learning/Mirasol3B.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Multimodal-Learning/Blip-2.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Multimodal-Learning/Blip-2.md",
+                "file": "Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Multimodal-Learning/Blip-2.md"
+                "file": "Contents.md"
               }
             }
           }
@@ -169,32 +171,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "504f9d0fcd3478bb",
+  "active": "432f24bc9be37591",
   "lastOpenFiles": [
-    "98_papers/Blip-2.pdf",
+    "README.md",
+    "Contents.md",
+    "03_Multimodal-Learning/Mirasol3B.md",
     "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
+    "02_Fundamental-Models/AffectGPT.md",
+    "98_papers/Blip-2.pdf",
     "03_Multimodal-Learning/Blip-2.md",
+    "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
+    "03_Multimodal-Learning/imgs/Mirasol3B_overview.png",
     "03_Multimodal-Learning/imgs/Blip-2_stage2.png",
     "03_Multimodal-Learning/imgs/Blip-2_stage1.png",
     "imgs/img.png.md",
     "imgs",
     "98_papers/MiniGPT-v2.pdf",
-    "03_Multimodal-Learning/Mirasol3B_2023-11-30.md",
     "Blip-2",
     "99_templates/paper-template.md",
     "01_Facial-expression-recognition/Latent-OFER.md",
-    "02_Fundamental-Models/AffectGPT.md",
     "img.png.md",
-    "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Multi-task.png",
     "98_papers/Mirasol3B.pdf",
-    "Contents.md",
-    "03_Multimodal-Learning/imgs/Mirasol3B_overview.png",
     "03_Multimodal-Learning/imgs",
     "03_Multimodal-Learning",
     "98_papers/AffectGPT.pdf",
     "02_Fundamental-Models",
-    "README.md",
     "02_Fundamental-Models/imgs/AffectGPT_visualize.png",
     "02_Fundamental-Models/imgs/AffcteGPT_clues-prompt.png",
     "02_Fundamental-Models/imgs"

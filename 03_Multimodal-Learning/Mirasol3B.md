@@ -1,3 +1,4 @@
+>2023-11-30
 # Paper info
 [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)  
 [[Mirasol3B.pdf]]  
