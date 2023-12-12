@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents.md",
+                "file": "02_Fundamental-Models/MiniGPT-v2.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,15 +170,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "432f24bc9be37591",
+  "active": "ce078da4e2758e97",
   "lastOpenFiles": [
-    "README.md",
     "Contents.md",
-    "03_Multimodal-Learning/Mirasol3B.md",
-    "02_Fundamental-Models/MiniGPT-v2_2023-12-03.md",
-    "02_Fundamental-Models/AffectGPT.md",
-    "98_papers/Blip-2.pdf",
     "03_Multimodal-Learning/Blip-2.md",
+    "02_Fundamental-Models/MiniGPT-v2.md",
+    "README.md",
+    "02_Fundamental-Models/AffectGPT.md",
+    "03_Multimodal-Learning/Mirasol3B.md",
+    "98_papers/Blip-2.pdf",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
     "03_Multimodal-Learning/imgs/Mirasol3B_overview.png",
     "03_Multimodal-Learning/imgs/Blip-2_stage2.png",

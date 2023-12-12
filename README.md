@@ -7,4 +7,4 @@ Join AffectQuill as we delve into the fascinating world of emotions, unravel the
 
 # Contents
 ## Fundamental Models
-[AffectGPT: Explainable Multimodal Emotion Reasoning](./02_Fundamental-Models/AffectGPT.md)  
+- [x] [AffectGPT: Explainable Multimodal Emotion Reasoning](./02_Fundamental-Models/AffectGPT.md)  

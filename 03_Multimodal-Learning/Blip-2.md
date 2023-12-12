@@ -1,4 +1,4 @@
-> 2023年12月7日
+> 2023-12-07
 # Paper info
 [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)  
 [[Blip-2.pdf]]  

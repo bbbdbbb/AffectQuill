@@ -1,3 +1,4 @@
+> 2023-12-03  
 # Paper info
 [MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning](https://github.com/Vision-CAIR/MiniGPT-4)  
 [[MiniGPT-v2.pdf]]  
