@@ -29,8 +29,11 @@ We also demonstrate the model’s **emerging capabilities of zero-shot** image-t
 
 To reduce computation cost and **counteract** the issue of **catastrophic forgetting**, the unimodal pre-trained models remain frozen during the pre-training.  
 
-The queries **interact with** each other through self-attention layers, and **interact with** frozen image features through cross-attention layers (inserted every other transformer block).  
+The queries **interact with** each other through self-attention layers, and **interact with** frozen image features through cross-attention layers (inserted every other transformer block).   
+
+The projected query embeddings are then **prepended to the input text embeddings**. They function as **soft visual prompts** that condition the LLM on visual representation extracted by the Q-Former.  
 
 # Extended literature
 - I don't know the queries how to interact with the text through the same self-attention layers. The [code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) of Blip-2.
 - Align before fuse: Vision and language representation learning with momentum distillation. In NeurIPS, 2021.
+- Hallucination / Lossy Compression

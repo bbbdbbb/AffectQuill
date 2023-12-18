@@ -11,23 +11,9 @@
             "id": "ce078da4e2758e97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "432f24bc9be37591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Fundamental-Models/MiniGPT-v2.md",
-                "mode": "source",
-                "source": false
+                "file": "98_papers/Blip-2.pdf"
               }
             }
           },
@@ -37,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Multimodal-Learning/Mirasol3B.md",
-                "mode": "preview",
+                "file": "03_Multimodal-Learning/Blip-2.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29505f6a3d85ec59",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03_Multimodal-Learning/Blip-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03_Multimodal-Learning/Blip-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03_Multimodal-Learning/Blip-2.md"
               }
             }
           }
@@ -170,15 +158,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce078da4e2758e97",
+  "active": "23b37dcca532bc21",
   "lastOpenFiles": [
-    "Contents.md",
-    "03_Multimodal-Learning/Blip-2.md",
-    "02_Fundamental-Models/MiniGPT-v2.md",
-    "README.md",
-    "02_Fundamental-Models/AffectGPT.md",
-    "03_Multimodal-Learning/Mirasol3B.md",
     "98_papers/Blip-2.pdf",
+    "03_Multimodal-Learning/Blip-2.md",
+    "03_Multimodal-Learning/Mirasol3B.md",
+    "02_Fundamental-Models/AffectGPT.md",
+    "README.md",
+    "Contents.md",
+    "02_Fundamental-Models/MiniGPT-v2.md",
     "02_Fundamental-Models/imgs/MiniGPT-v2_Architecture.png",
     "03_Multimodal-Learning/imgs/Mirasol3B_overview.png",
     "03_Multimodal-Learning/imgs/Blip-2_stage2.png",
