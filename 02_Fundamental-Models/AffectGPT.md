@@ -8,8 +8,8 @@ Zheng Lian, Institute of Automation
 - Consequently, models built on these datasets may **struggle to meet the demands of practical applications**.
   
 # Innovation points
- In this paper, they propose a **novel task** called **“Explainable Multimodal Emotion Reasoning (EMER)”**.  
- They propose the first multimodal large language model (LLM) in affective computing, called **AffectGPT**.  
+In this paper, they propose a **novel task** called **“Explainable Multimodal Emotion Reasoning (EMER)”**.  
+They propose the first multimodal large language model (LLM) in affective computing, called **AffectGPT**.  
 They establish an initial dataset, baselines, and evaluation metrics.  
 They use ChatGPT to summarize annotatoss' clues:  
 ![](imgs/AffcteGPT_clues-prompt.png)

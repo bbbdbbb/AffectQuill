@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce078da4e2758e97",
+            "id": "b5031bab8c414bd5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98_papers/Blip-2.pdf"
+                "file": "03_Multimodal-Learning/ALBEF.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "23b37dcca532bc21",
+            "id": "27c46264270f884f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -26,9 +28,20 @@
                 "file": "98_papers/ALBEF.pdf"
               }
             }
+          },
+          {
+            "id": "98278bdf9c97f0e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Multimodal-Learning/Blip-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98_papers/ALBEF.pdf",
+                "file": "03_Multimodal-Learning/ALBEF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98_papers/ALBEF.pdf",
+                "file": "03_Multimodal-Learning/ALBEF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98_papers/ALBEF.pdf"
+                "file": "03_Multimodal-Learning/ALBEF.md"
               }
             }
           }
@@ -155,12 +168,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23b37dcca532bc21",
+  "active": "b5031bab8c414bd5",
   "lastOpenFiles": [
+    "98_papers/ALBEF.pdf",
+    "03_Multimodal-Learning/ALBEF.md",
     "03_Multimodal-Learning/Blip-2.md",
+    "02_Fundamental-Models/AffectGPT.md",
+    "03_Multimodal-Learning/imgs/ALBEF_pipeline.png",
     "98_papers/Blip-2.pdf",
     "03_Multimodal-Learning/Mirasol3B.md",
-    "02_Fundamental-Models/AffectGPT.md",
     "README.md",
     "Contents.md",
     "02_Fundamental-Models/MiniGPT-v2.md",
@@ -182,7 +198,6 @@
     "98_papers/AffectGPT.pdf",
     "02_Fundamental-Models",
     "02_Fundamental-Models/imgs/AffectGPT_visualize.png",
-    "02_Fundamental-Models/imgs/AffcteGPT_clues-prompt.png",
-    "02_Fundamental-Models/imgs"
+    "02_Fundamental-Models/imgs/AffcteGPT_clues-prompt.png"
   ]
 }
