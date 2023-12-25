@@ -28,6 +28,11 @@ To improve learning from noisy web data, they propose momentum distillation.
 - Vision-and-Language Pre-training (VLP) 
 
 # Writing materials
+Existing pre-training objectives such as MLM may **overfit to the noisy text** and **degrade the model’s generalization performance**.  
 
+(ITC loss) it improves the unimodal encoders to better **understand the semantic meaning** of images and texts.  
+
+(ITC loss) it learns a common **low-dimensional space** to embed images and texts, which enables the image-text matching objective to find more **informative samples** through our **contrastive hard negative mining**.
 
 # Extended literature
+ [Learning Aligned Audiovisual Representations for Multimodal Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3607865.3613184). In ACM MM, 2023

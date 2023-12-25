@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Multimodal-Learning/Blip-2.md",
+                "file": "03_Multimodal-Learning/Mirasol3B.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,12 +171,12 @@
   "active": "b5031bab8c414bd5",
   "lastOpenFiles": [
     "98_papers/ALBEF.pdf",
-    "03_Multimodal-Learning/ALBEF.md",
+    "03_Multimodal-Learning/Mirasol3B.md",
     "03_Multimodal-Learning/Blip-2.md",
+    "03_Multimodal-Learning/ALBEF.md",
     "02_Fundamental-Models/AffectGPT.md",
     "03_Multimodal-Learning/imgs/ALBEF_pipeline.png",
     "98_papers/Blip-2.pdf",
-    "03_Multimodal-Learning/Mirasol3B.md",
     "README.md",
     "Contents.md",
     "02_Fundamental-Models/MiniGPT-v2.md",
